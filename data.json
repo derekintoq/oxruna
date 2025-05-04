@@ -1,0 +1,9 @@
+{
+    "FartoxEnable": false,
+    "FartoxLang": ["Russian"],
+    "FartoxTimes": ["Yekaterinburg"],
+    "FartoxLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
