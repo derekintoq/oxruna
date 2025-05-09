@@ -1,9 +1,9 @@
 {
-    "FartoxEnable": false,
-    "FartoxLang": ["Russian"],
-    "FartoxTimes": ["Yekaterinburg"],
+    "FartoxEnable": true,
+    "FartoxLang": ["Portuguese"],
+    "FartoxTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "FartoxLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wevkk.life/casino/list?open=register&p=jrnn"]}
     ]
  }
